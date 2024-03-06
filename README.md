@@ -19,7 +19,7 @@ Datas Importantes:
   <li>Conclusão: 06/03/2024</li><br>
 </ul3
 
-Link: <a href="https://caiorossi00.github.io/Paineis-flex/">PanelCraft</a>
+Link: <a href="https://caiorossi00.github.io/Panelcraft/">PanelCraft</a>
 
 
 
